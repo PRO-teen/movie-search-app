@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "Title": "avatar",
+    "Year": "2009",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "<img src=./images/avatar.png height= 300px >"
+  },
+
+  {
+    "id": 2,
+    "Title": "bahubali",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/Bahubali.png height= 300px width=280px >"
+  },
+  {
+    "id": 3,
+    "Title": "joker",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/joker.png height= 300px width=280px >"
+  },
+  {
+    "id": 4,
+    "Title": "money hiest",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/money.png height= 300px width=280px >"
+  },
+  {
+    "id": 5,
+    "Title": "you",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/you.png height= 300px width=280px >"
+  },
+  {
+    "id": 6,
+    "Title": "3 idoits",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/idoits.png height= 300px width=280px >"
+  },
+  {
+    "id": 7,
+    "Title": "ZNMD",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/znmd.png height= 300px width=280px >"
+  },
+  {
+    "id": 8,
+    "Title": "khiladi",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/khiladi.png height= 300px width=280px >"
+  },
+  {
+    "id": 9,
+    "Title": "RRR",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/RRR.png height= 300px width=280px >"
+  },
+  {
+    "id": 10,
+    "Title": "KGF",
+    "Year": "2015",
+    "Language": "Tamil , Hindi",
+    "Country": "India",
+    "Poster": "<img src=./images/no.png height= 300px width=280px >"
+  }
+   
+  
+
+]
